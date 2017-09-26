@@ -1,0 +1,18 @@
+
+/*
+  Examples do not require to be ugly
+*/
+
+li:hover{
+  cursor: pointer;
+  background-color: royalblue;
+}
+
+#form{
+  display: none;
+  margin-top: 30px;
+  padding: 15px;
+  border: black;
+  border-width: 1px;
+  border-style: dashed;
+}
